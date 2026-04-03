@@ -3,10 +3,9 @@
 using namespace std;
 
 int main() {
-    int a, b; // Объявляем две переменные
-    cin >> a >> b; // Считываем два числа сразу
-
-    // Ваш код:
+    int a, b; 
+    cin >> a >> b; 
+    
 if(a>b)
 {
     cout << "Большее число: " << a;
