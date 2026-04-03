@@ -5,7 +5,7 @@ int main() {
     int number;
     cin >> number;
 
-    // Ваш код
+   
 if(number>=0)
 {
     cout << "Число не отрицательное";
